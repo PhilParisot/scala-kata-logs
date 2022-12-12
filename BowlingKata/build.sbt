@@ -1,7 +1,4 @@
-name := "manhattan-distance"
-
+name := "bowling-kata"
 version := "1.0"
-
-scalaVersion := "2.11.12"
-
-libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.3" % "test"
+scalaVersion := "2.13.8"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.12" % Test
